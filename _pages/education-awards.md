@@ -25,8 +25,8 @@ redirect_from:
 <br /> 
 # Participation and Awards
 
-* Dean's List of Honors (Bachelor of Science)
-* 7th Place out of 200 participants from 25 Universities in the EWU Inter University Math Olympiad 2019
+* **Dean's List of Honors** (Bachelor of Science)
+* **7th Place** out of 200 participants from 25 Universities in the EWU Inter University Math Olympiad 2019
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
 * Participated in 4th International Conference on Electrical Information and Communication Technology (EICT - 2019), Khulna, Bangladesh
 * Participated in 22nd International Conference on Computer and Information Technology (ICCIT - 2019)
