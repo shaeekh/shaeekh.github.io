@@ -19,7 +19,7 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 
 # Activities 
 
-* <span style="color:Blue"> [May 20, 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
+
 * <span style="color:Blue"> [June 07, 2020] </span> - A [paper](https://tonmoy-hossain/files/Tensymp2020.pdf) was presented at [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [April 28, 2020] </span> - One [paper](https://tonmoy-hossain/files/Tensymp2020.pdf) got accepted to [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [January 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
