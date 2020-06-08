@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ##Education
-<b>B.Sc., Computer Science and Engineering</b>
+-------------
+<b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology
 
 
