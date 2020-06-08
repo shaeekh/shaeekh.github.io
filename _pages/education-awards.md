@@ -32,6 +32,5 @@ redirect_from:
 * Participated in 22nd International Conference on Computer and Information Technology (ICCIT - 2019)
 * Participated in 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT, 2019)
 * Participated in "How Computer Program Works", organized by Innovation for Poverty Action associated with **University of California, San Diego** and **Cornell University**
-* 
 
 ___________________________________________
