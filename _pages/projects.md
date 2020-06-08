@@ -8,23 +8,14 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2020 - *Current* ]
+### [2019 - *Current*]
 -----------
-* SHUVRO-21: A Comprehensive System for Bengali Text Documents.
-* Modeling Cold Start and User Experience in Recommender Systems.
-
-### [2019 - *Current* ]
------------
-* Pros and Cons Opinion Summarization based on Review Critics.
-* Neural Bangla Text Simplification for Children.
-* Automatic Summarization of Bangla Text Documents.
-
-
-## Graduate Course Projects [2015-2017]
-----------------
-* "User Review Analysis of Google Play Store Apps" [[Code]](https://github.com/tafseer-nayeem/CPSC5310-Machine_Learning) [[Data]](https://github.com/tafseer-nayeem/AppReview-dataset) [[Report]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project__Report.pdf) [[Presentation]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Presentation.pdf)
-* "Modeling Class Scheduling Using Linear Programming" [[Code]](https://github.com/tafseer-nayeem/CPSC5110-Computational_Optimization) [[Data]](https://tafseer-nayeem.github.io/files/Optimization_project_courseData.pdf) [[Report]](https://tafseer-nayeem.github.io/files/Optimization_Project__Report.pdf)
-* "Design of 8-bit ALU & CPU on Xilinx using Verilog HDL" [[Code]](https://github.com/tafseer-nayeem/CPSC5210-VLSI_Design) [[Presentation]](https://tafseer-nayeem.github.io/files/VLSI_Design_Course_Presentation.pdf)
+* Early Parkinson's Disease Prediction.
+* Automatic Video Captioning System.
+* Cardless transaction system.
+* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.
+* Bangla Sign Digit Classification.
+* Alzheimer's Disease Detection applying Neural Network.
 
 
 ## Undergraduate Course Projects [2015-2019]
