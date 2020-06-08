@@ -22,7 +22,9 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 * <span style="color:Blue"> [May 20, 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
 * <span style="color:Blue"> [December 05, 2018] </span> - One [short paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14) got accepted to [ECIR 2019](http://ecir2019.org/).
 * <span style="color:Blue"> [June 14, 2018] </span> - Nominated for the [<span style="color:Red"> **Best Paper Award** </span>](http://coling2018.org/coling-2018-best-papers/) at COLING 2018.
-* <span style="color:Blue"> [January 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/). 
+* <span style="color:Blue"> [January 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
+* <span style="color:Blue"> [December 19, 2019] </span> - A [paper](https://ieeexplore.ieee.org/document/9038609) was presented to [ICCIT 2019](http://iccit.org.bd/2019/). 
+* <span style="color:Blue"> [November 21, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9038609) got accepted to [ICCIT 2019](http://iccit.org.bd/2019/).
 * <span style="color:Blue"> [August 25, 2019] </span> - Joined as an Adjunct Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [November 06, 2017] </span> - A [short paper ](https://dl.acm.org/citation.cfm?id=3133106) was presented at [CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html).
 * <span style="color:Blue"> [June 23, 2019]  </span> - Successfully defended my [B.Sc. Thesis](https://tonmoy-hossain.github.io/files/Hossain_Tonmoy_B.Sc._Thesis.pdf). 
