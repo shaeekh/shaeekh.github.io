@@ -18,12 +18,12 @@ author_profile: true
 ## 2019
 -----------
 
-* Tonmoy Hossain, Fairuz Shadmani Shishir and Faisal Muhammad Shah, ["A Novel Approach to Classify Bangla Sign Digits using Capsule Network,"](https://ieeexplore.ieee.org/document/9038609) 2019 22nd International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICCIT48885.2019.9038609
+* **Tonmoy Hossain**, Fairuz Shadmani Shishir and Faisal Muhammad Shah, ["A Novel Approach to Classify Bangla Sign Digits using Capsule Network,"](https://ieeexplore.ieee.org/document/9038609) <i> 22nd International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICCIT48885.2019.9038609</i>
 
 * Shithi Maitra, **Tonmoy Hosain**, Abdullah Al-Sakin and Faisal Muhammad Shah, ["Artificial Prognosis of Cardiac Disease using
 an NN: A Data-scientific Approach in Outlier Handling,"](https://ieeexplore.ieee.org/document/9068847/) <i>2019 4th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2019, pp. 1-12, doi: 10.1109/EICT48899.2019.9068847.</i>
 
-* **Tonmoy Hossain**, Fairuz Shadmani Shishir, Mohsena Ashraf, MD Abdullah Al Nasim and Faisal Muhammad Shah, ["Brain Tumor Detection Using Convolutional Neural Network,"](https://ieeexplore.ieee.org/document/8934561) <i>2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICASERT.2019.8934561.</i>
+* **Tonmoy Hossain**, Fairuz Shadmani Shishir, Mohsena Ashraf, MD Abdullah Al Nasim and Faisal Muhammad Shah, ["Brain Tumor Detection Using Convolutional Neural Network,"](https://ieeexplore.ieee.org/document/8934561) <i>1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICASERT.2019.8934561.</i>
 
 * Shithi Maitra, **Tonmoy Hossain**, Abdullah Al-Sakin, Sheikh Inzamamuzzaman, Md Mamun Or Rashid, Syeda Shabnam Hasan . (2019). ["A Gender-Neutral Approach to Detect Early Alzheimer’s Disease Applying a Three-layer NN"](https://thesai.org/Publications/ViewPaper?Volume=10&Issue=3&Code=ijacsa&SerialNo=68). <i>International Journal of Advanced Computer Science and Applications. 10. 10.14569/IJACSA.2019.0100368.</i> [[PDF]](https://tonmoy-hossain.github.io/files/Alzheimer.pdf)
 
