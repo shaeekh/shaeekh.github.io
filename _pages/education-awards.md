@@ -23,15 +23,15 @@ redirect_from:
 * **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
 
 <br /> 
-# Awards
-* [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/) at **COLING 2018**.
-* [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/) paper at **COLING 2018**.
-* **ACM SIGIR** Student Travel Grant (2017) [*Amount: 800 USD*]
-* School of Graduate Studies (**S.G.S**) Research Dissemination Travel Award (2017) [*Amount: 1500 CAD*]
-* Graduate Student’s Association (**GSA**) Travel Award (2017) [*Amount: 500 CAD*]
-* School of Graduate Studies (**S.G.S**) Dean’s Scholarship, UofL (2015 - 2017) [*Amount: 20,000 CAD*]
-* School of Graduate Studies (**S.G.S**) International Tuition Award, UofL (2015 - 2017) [*Amount: 17,000 CAD*]
-* Graduate Assistantship (**G.A.**), UofL (2015 - 2017) [*Amount: 14,400 CAD*]
-* **IUT-OIC** Full Free Scholarship (International, 2008 - 2011) [*Amount: 12,000 USD*]
+# Participation and Awards
+
+* Dean's List of Honors (Bachelor of Science)
+* 7th Place out of 200 participants from 25 Universities in the EWU Inter University Math Olympiad 2019
+* Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
+* Participated in 4th International Conference on Electrical Information and Communication Technology (EICT - 2019), Khulna, Bangladesh
+* Participated in 22nd International Conference on Computer and Information Technology (ICCIT - 2019)
+* Participated in 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT, 2019)
+* Participated in "How Computer Program Works", organized by Innovation for Poverty Action associated with **University of California, San Diego** and **Cornell University**
+* 
 
 ___________________________________________
