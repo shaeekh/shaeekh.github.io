@@ -16,7 +16,7 @@ redirect_from:
  <br /> 
 **Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
 
-You can also find me on [Twitter](https://twitter.com/mtnayeem), and [Github](https://github.com/tafseer-nayeem).
+You can also find me on [Github](https://github.com/tonmoy-hossain).
 
 
 **Address:**
