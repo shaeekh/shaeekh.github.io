@@ -18,7 +18,7 @@ redirect_from:
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **CGPA:  3.842** [*out of 4.00* ]
 * Third out of 152 students
-* **Thesis title:** ["Identification and Classification of Brain Tumor Medical Images using Deep Learning"](https://tonmoy-hossain.github.io/files/undergraduateThesis.pdf) 
+* **Thesis title:** ["Brain Tumor Detection using Convolutional Neural Network"](https://tonmoy-hossain.github.io/files/undergraduateThesis.pdf) 
 * **Thesis Presentation:** [[Presentation]](https://tonmoy-hossain.github.io/files/DefenseFinalPresentation.pdf) 
 * **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
 
