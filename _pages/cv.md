@@ -11,6 +11,7 @@ redirect_from:
 -------------
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
+Dhaka, Bangladesh<br />
 <i>May 2015 - July 2019</i>
 
 ## Employment 
