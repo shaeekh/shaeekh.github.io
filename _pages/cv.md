@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculam Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,8 +12,8 @@ redirect_from:
 ## Contact Me
 -------------
 
-**Email:** mir.nayeem [at] alumni [dot] uleth [dot] [*first 2 letters in “canada”*], <br /> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; tafseer.nayeem [at] gmail [dot] com <br />
+**Email:** tonmoy.cse [at] aust [dot] edu, <br /> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; tonmoy.cse [at] ieee [dot] org <br />
 **Website:** [https://tafseer-nayeem.github.io](https://tafseer-nayeem.github.io/) <br />
 
 You can also find me on [Twitter](https://twitter.com/mtnayeem), and [Github](https://github.com/tafseer-nayeem).
