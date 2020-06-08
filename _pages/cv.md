@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Education
--------------
+## Education <br style = line-height: 2px />
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 May 2015 - July 2019
