@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-##Education
+## Education
 -------------
 <b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology
-
+Ahsanullah University of Science and Technology<br />
+May 2015 - July 2019
 
 [Download Full CV](https://tonmoy-hossain.github.io/files/CV_June8.pdf) [<ins>*Last Updated on June 8, 2020*</ins>]
 
