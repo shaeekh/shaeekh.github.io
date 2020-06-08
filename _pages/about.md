@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Thanks for stopping by!
+Greetings!
 
-My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Science from [University of Lethbridge (UofL)](https://www.uleth.ca/) , Alberta, Canada under the supervision of [Prof. Yllias Chali](http://www.cs.uleth.ca/~chali/). I also worked as a Teaching and Research Assistant at UofL.  My primary research interest lies at the intersection of Natural Language Processing, Deep Learning, and Computational Social Science. Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/cse/index.htm) , Dhaka, Bangladesh. 
+My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/) , Dhaka, Bangladesh. Just after complete my graduation, I have the opportunity to serve my [alma mater](http://aust.edu/) and presently I am working as a Lecturer in the [Department of CSE](http://aust.edu/cse/index.htm) at my place of graduation.  My primary research interest lies at Deep Learning, Computer Vision, Data Mining and Medical Image Processing.
 
 
 **For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/) .**
