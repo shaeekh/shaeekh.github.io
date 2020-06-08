@@ -7,10 +7,23 @@ redirect_from:
   - /resume
 ---
 
-## Education <br style = line-height: 2px />
+## Education 
+-------------
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
-May 2015 - July 2019
+<i>May 2015 - July 2019</i>
+
+## Employment 
+-------------
+<b>Lecturer</b><br />
+Department of Computer Science and Engineering <br/>
+Ahsanullah University of Science and Technology<br />
+<i>January 2020 - present</i><br/>
+
+<b>Adjunct Lecturer</b><br />
+Department of Computer Science and Engineering <br/>
+Ahsanullah University of Science and Technology<br />
+<i>August 2019 - January 2020</i>
 
 [Download Full CV](https://tonmoy-hossain.github.io/files/CV_June8.pdf) [<ins>*Last Updated on June 8, 2020*</ins>]
 
