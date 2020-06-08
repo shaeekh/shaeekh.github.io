@@ -18,8 +18,8 @@ author_profile: true
 ## 2019
 -----------
 
-* Shithi Maitra, **Tonmoy Hosain**, Abdullah Al-Sakin and Faisal Muhammad Shah, **"Artificial Prognosis of Cardiac Disease using
-an NN: A Data-scientific Approach in Outlier Handling,"** <i>2019 4th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2019, pp. 1-12, doi: 10.1109/EICT48899.2019.9068847.</i>
+* Shithi Maitra, **Tonmoy Hosain**, Abdullah Al-Sakin and Faisal Muhammad Shah, ["Artificial Prognosis of Cardiac Disease using
+an NN: A Data-scientific Approach in Outlier Handling,"](https://ieeexplore.ieee.org/document/9068847/) <i>2019 4th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2019, pp. 1-12, doi: 10.1109/EICT48899.2019.9068847.</i>
 
 * **Tonmoy Hossain**, Fairuz Shadmani Shishir, Mohsena Ashraf, MD Abdullah Al Nasim and Faisal Muhammad Shah, **"Brain Tumor Detection Using Convolutional Neural Network,"** <i>2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICASERT.2019.8934561.</i>
 
