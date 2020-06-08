@@ -29,6 +29,7 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 * <span style="color:Blue"> [September 05, 2017]  </span> - Successfully defended my [M.Sc. Thesis](https://opus.uleth.ca/bitstream/handle/10133/4993/NAYEEM_MIR_TAFSEER_MSC_2017.pdf). 
 * <span style="color:Blue"> [August 03, 2017] </span> - I attended [ACL 2017](http://acl2017.org/), in Vancouver, and presented a [workshop paper](http://www.aclweb.org/anthology/W17-2407).  
 * <span style="color:Blue"> [April 10, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/8934561) got accepted to [ICASERT-2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/)
+* <span style="color:Blue"> [March 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 
 -----------
 
