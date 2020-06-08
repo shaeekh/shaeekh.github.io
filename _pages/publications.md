@@ -18,7 +18,7 @@ author_profile: true
 ## 2019
 -----------
 
-* **Tonmoy Hossain**, Fairuz Shadmani Shishir, Mohsena Ashraf, MD Abdullah Al Nasim and Faisal Muhammad Shah, **"Brain Tumor Detection Using Convolutional Neural Network,"** 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICASERT.2019.8934561.
+* **Tonmoy Hossain**, Fairuz Shadmani Shishir, Mohsena Ashraf, MD Abdullah Al Nasim and Faisal Muhammad Shah, **"Brain Tumor Detection Using Convolutional Neural Network,"** <i>2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICASERT.2019.8934561.</i>
 
 * Shithi Maitra, **Tonmoy Hossain**, Abdullah Al-Sakin, Sheikh Inzamamuzzaman, Md Mamun Or Rashid, Syeda Shabnam Hasan . (2019). **"A Gender-Neutral Approach to Detect Early Alzheimer’s Disease Applying a Three-layer NN"**. <i>International Journal of Advanced Computer Science and Applications. 10. 10.14569/IJACSA.2019.0100368.</i> [[PDF]] (https://tonmoy-hossain.github.io/files/Alzheimer.pdf)
 
