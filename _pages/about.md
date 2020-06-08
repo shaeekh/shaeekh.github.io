@@ -20,8 +20,8 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 # Activities 
 
 * <span style="color:Blue"> [May 20, 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
-* <span style="color:Blue"> [December 05, 2018] </span> - One [short paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14) got accepted to [ECIR 2019](http://ecir2019.org/).
-* <span style="color:Blue"> [June 14, 2018] </span> - Nominated for the [<span style="color:Red"> **Best Paper Award** </span>](http://coling2018.org/coling-2018-best-papers/) at COLING 2018.
+* <span style="color:Blue"> [June 07, 2020] </span> - A [paper](https://tonmoy-hossain/files/Tensymp2020.pdf) was presented at [Tensymp 2020](http://tensymp2020.com/).
+* <span style="color:Blue"> [April 28, 2020] </span> - One [paper](https://tonmoy-hossain/files/Tensymp2020.pdf) got accepted to [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [January 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [December 21, 2019] </span> - A [paper](https://ieeexplore.ieee.org/document/9068847) was presented at EICT 2019.
 * <span style="color:Blue"> [December 19, 2019] </span> - Attended [ICCIT 2019](http://iccit.org.bd/2019/), in Dhaka, Bangladesh and presented a [paper](https://ieeexplore.ieee.org/document/9038609). 
