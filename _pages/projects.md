@@ -13,10 +13,13 @@ author_profile: true
 * Early Parkinson's Disease Prediction.
 * Automatic Video Captioning System.
 * Cardless transaction system.
-* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.
-* Bangla Sign Digit Classification.
-* Alzheimer's Disease Detection applying Neural Network.
 
+
+### [2019 - 2020]
+-----------
+* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling. (Completed)
+* Bangla Sign Digit Classification. (Completed)
+* Alzheimer's Disease Detection applying Neural Network. (Completed)
 
 ## Undergraduate Course Projects [2015-2019]
 ----------------
