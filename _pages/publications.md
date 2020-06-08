@@ -9,15 +9,15 @@ author_profile: true
 
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate).**
 
+## 2020
+-----------
+*  Fairuz Shadmani Shishir, **Tonmoy Hossain**, Faisal Muhammad Shah, **"EsharaGAN: An Approach to Generate Disentangle Representation of Sign Language using InfoGAN"**, Accepted and Presented in 2020 IEEE Region 10 Symposium (TENSYMP), 5-7 June 2020, Dhaka, Bangladesh.
+
+
+
 ## 2019
 -----------
-*  Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali, ["Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization"](https://www.sciencedirect.com/science/article/pii/S0885230818303449), Computer Speech & Language, Elsevier 58 (2019): 216-230. [\****Equal Contribution***] [[Code]](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [[PDF]](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf)
 
-*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali, ["Neural Diverse Abstractive Sentence Compression Generation"](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14), In Proceedings of the 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. [[PDF]](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
+* Faisal Muhammad Shah, **Tonmoy Hossain**, Mohsena Ashraf, Fairuz Shadmani Shishir, MD Abdullah Al Nasim, Md. Hasanul Kabir. **"Brain Tumor Segmentation Techniques on Medical Images - A Review"**, International Journal of Scientific & Engineering Research, Volume 10, Issue 2, February-2019.
+ISSN 2229-5518
 
-
-## 2019
------------
-*  Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali, ["Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization"](https://www.sciencedirect.com/science/article/pii/S0885230818303449), Computer Speech & Language, Elsevier 58 (2019): 216-230. [\****Equal Contribution***] [[Code]](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [[PDF]](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf)
-
-*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali, ["Neural Diverse Abstractive Sentence Compression Generation"](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14), In Proceedings of the 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. [[PDF]](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
