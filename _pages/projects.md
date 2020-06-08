@@ -17,9 +17,9 @@ author_profile: true
 
 ### [2019 - 2020]
 -----------
-* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling. (Completed)
-* Bangla Sign Digit Classification. (Completed)
-* Alzheimer's Disease Detection applying Neural Network. (Completed)
+* Artificial Prognosis of Cardiac Disease: A Data-scientific Approach in Outlier Handling.
+* Bangla Sign Digit Classification.
+* Alzheimer's Disease Detection applying Neural Network.
 
 ## Undergraduate Course Projects [2015-2019]
 ----------------
