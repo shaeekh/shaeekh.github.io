@@ -35,7 +35,7 @@ Ahsanullah University of Science and Technology<br />
  <br /> 
 **Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
 
-You can also find me on [Github](https://github.com/tonmoy-hossain).
+You can also find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ), [Github](https://github.com/tonmoy-hossain).
 
 
 **Address:**
