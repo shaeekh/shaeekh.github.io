@@ -18,7 +18,7 @@ author_profile: true
 ## 2019
 -----------
 
-* **Tonmoy Hossain**, Fairuz Shadmani Shishir and Faisal Muhammad Shah, ["A Novel Approach to Classify Bangla Sign Digits using Capsule Network,"](https://ieeexplore.ieee.org/document/9038609) <i> 22nd International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICCIT48885.2019.9038609</i>
+* **Tonmoy Hossain**, Fairuz Shadmani Shishir and Faisal Muhammad Shah, ["A Novel Approach to Classify Bangla Sign Digits using Capsule Network,"](https://ieeexplore.ieee.org/document/9038609) <i> 22nd International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2019, pp. 1-6, doi: 10.1109/ICCIT48885.2019.9038609</i>[**Oral Presentation**](https://tonmoy-hossain.github.io/files/conferencePaper_CapsuleNetwork.pdf)
 
 * Shithi Maitra, **Tonmoy Hosain**, Abdullah Al-Sakin and Faisal Muhammad Shah, ["Artificial Prognosis of Cardiac Disease using
 an NN: A Data-scientific Approach in Outlier Handling,"](https://ieeexplore.ieee.org/document/9068847/) <i>2019 4th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2019, pp. 1-12, doi: 10.1109/EICT48899.2019.9068847.</i>
