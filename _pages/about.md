@@ -28,7 +28,6 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 * <span style="color:Blue"> [November 24, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9068847) got accepted to EICT 2019.
 * <span style="color:Blue"> [November 21, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/9038609) got accepted to [ICCIT 2019](http://iccit.org.bd/2019/).
 * <span style="color:Blue"> [August 25, 2019] </span> - Joined as an Adjunct Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
-* <span style="color:Blue"> [November 06, 2017] </span> - A [short paper ](https://dl.acm.org/citation.cfm?id=3133106) was presented at [CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html).
 * <span style="color:Blue"> [June 23, 2019]  </span> - Successfully defended my [B.Sc. Thesis](https://tonmoy-hossain.github.io/files/Hossain_Tonmoy_B.Sc._Thesis.pdf). 
 * <span style="color:Blue"> [May 05, 2019] </span> - Attended [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/), in Dhaka, Bangladesh, and presented a [paper](https://ieeexplore.ieee.org/document/8934561).  
 * <span style="color:Blue"> [April 10, 2019] </span> - One [paper](https://ieeexplore.ieee.org/document/8934561) got accepted to [ICASERT 2019](http://home.ewubd.edu/events/1st-international-conference-on-advances-in-science-engineering-and-robotics-technology-icasert-2019/)
