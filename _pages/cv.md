@@ -12,19 +12,19 @@ redirect_from:
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>*May 2015 - July 2019*</i>
+<i style='color:#000099;'>**May 2015 - July 2019**</i>
 
 ## Employment 
 -------------
 <b>Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>*January 2020 - present*</i><br/>
+<i style='color:#000099;'>**January 2020 - present**</i><br/>
 
 <b>Adjunct Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>*August 2019 - January 2020*</i>
+<i style='color:#000099;'>**August 2019 - January 2020**</i>
 
 [Download Full CV](https://tonmoy-hossain.github.io/files/CV_June8.pdf) [<ins>*Last Updated on June 8, 2020*</ins>]
 
