@@ -11,6 +11,9 @@ author_profile: true
 
 ## 2020
 -----------
+*  Shithi Maitra, Nasrin Akter, Afrina Zahan Mithila, **Tonmoy Hossain**, and Mohammad Shafiul
+Alam, **"Apriori-backed Fuzzy Unification and Statistical Inference in Feature Reduction: An
+Application in Prognosis of Autism in Toddlers"**, <i>Accepted and Presented in 5th International Conference on Advanced Computing and Intelligent Engineering, Mauritius.</i>
 *  Fairuz Shadmani Shishir, **Tonmoy Hossain**, Faisal Muhammad Shah, **"EsharaGAN: An Approach to Generate Disentangle Representation of Sign Language using InfoGAN"**, <i>Accepted and Presented in 2020 IEEE Region 10 Symposium (TENSYMP), 5-7 June 2020, Dhaka, Bangladesh.</i>
 
 
