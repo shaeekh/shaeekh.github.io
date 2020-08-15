@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2020
 -----------
-*  Sifat Ahmed, **Tonmoy Hossain**, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman5, Faisal Muhammad Shah, **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach"**, <i>Pre-print version published at [Research Square] (https://www.researchsquare.com/article/rs-56285/v1)</i>
+*  Sifat Ahmed, **Tonmoy Hossain**, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman5, Faisal Muhammad Shah, **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach"**, <i>Pre-print version published at [Research Square](https://www.researchsquare.com/article/rs-56285/v1)</i>
 *  Shithi Maitra, Nasrin Akter, Afrina Zahan Mithila, **Tonmoy Hossain**, and Mohammad Shafiul
 Alam, **"Apriori-backed Fuzzy Unification and Statistical Inference in Feature Reduction: An
 Application in Prognosis of Autism in Toddlers"**, <i>Accepted and Presented in 5th International Conference on Advanced Computing and Intelligent Engineering, Mauritius.</i>
