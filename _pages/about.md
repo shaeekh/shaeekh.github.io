@@ -19,7 +19,7 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 
 # Activities 
 
-
+* <span style="color:Blue"> [August 13, 2020] </span> - A pre-print version of a journal submitted [paper](https://assets.researchsquare.com/files/rs-56285/v1_stamped.pdf) is published at [Research Square](https://www.researchsquare.com/article/rs-56285/v1).
 * <span style="color:Blue"> [June 09, 2020] </span> - A long paper was accepted at [ICACIE 2020](https://www.icacie.com/2020/).
 * <span style="color:Blue"> [June 07, 2020] </span> - A paper was presented at [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [April 28, 2020] </span> - One paper got accepted to [Tensymp 2020](http://tensymp2020.com/).
