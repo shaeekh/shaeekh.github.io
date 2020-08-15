@@ -8,8 +8,10 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2019 - *Current*]
+### [2020 - *Current*]
 -----------
+* Skeleton-based Human Action Recognition.
+* Automated COVID-19 Detection: A HRNet Approach
 * Early Parkinson's Disease Prediction.
 * Automatic Video Captioning System.
 * Cardless transaction system.
