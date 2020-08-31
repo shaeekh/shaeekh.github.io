@@ -26,7 +26,7 @@ Department of Computer Science and Engineering <br/>
 Ahsanullah University of Science and Technology<br />
 <i style='color:#000099;'>**August 2019 - January 2020**</i>
 
-[Download Full CV](https://tonmoy-hossain.github.io/files/CV_June8.pdf) [<ins>*Last Updated on June 8, 2020*</ins>]
+[Download Full CV](https://tonmoy-hossain.github.io/files/CV_NeuralNetwork__AI_.pdf) [<ins>*Last Updated on June 8, 2020*</ins>]
 
 ## Contact Me
 -------------
