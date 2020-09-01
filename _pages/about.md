@@ -9,7 +9,8 @@ redirect_from:
 ---
 Greetings!
 
-My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/) , Dhaka, Bangladesh. Just after complete my graduation, I get the opportunity to serve my alma mater and presently I am working as a Lecturer in the [Department of CSE](http://aust.edu/cse/index.htm) at my place of graduation.  My primary research interest lies at Deep Learning, Computer Vision, Data Mining and Medical Image Processing.
+<div style="text-align: right"> 
+My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/) , Dhaka, Bangladesh. Just after complete my graduation, I get the opportunity to serve my alma mater and presently I am working as a Lecturer in the [Department of CSE](http://aust.edu/cse/index.htm) at my place of graduation.  My primary research interest lies at Deep Learning, Computer Vision, Data Mining and Medical Image Processing.</div>
 
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
@@ -20,7 +21,6 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 # Activities 
 
 * <span style="color:Blue"> [August 13, 2020] </span> - A pre-print version of a journal submitted [paper](https://assets.researchsquare.com/files/rs-56285/v1_stamped.pdf) is published at [Research Square](https://www.researchsquare.com/article/rs-56285/v1).
-
 * <span style="color:Blue"> [June 09, 2020] </span> - A long paper was accepted at [ICACIE 2020](https://www.icacie.com/2020/).
 * <span style="color:Blue"> [June 07, 2020] </span> - A short paper was presented at [Tensymp 2020](http://tensymp2020.com/) [(presentation)](https://tonmoy-hossain.github.io/files/tensymp_presentation.pdf).
 * <span style="color:Blue"> [April 28, 2020] </span> - One paper got accepted to [Tensymp 2020](http://tensymp2020.com/).
