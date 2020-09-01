@@ -20,9 +20,9 @@ My name is Tonmoy Hossain. I graduated with a B.Sc. degree in Computer Science a
 # Activities 
 
 * <span style="color:Blue"> [August 13, 2020] </span> - A pre-print version of a journal submitted [paper](https://assets.researchsquare.com/files/rs-56285/v1_stamped.pdf) is published at [Research Square](https://www.researchsquare.com/article/rs-56285/v1).
-* <span style="color:Blue"> [June 09, 2020] </span> - A short paper was presented at [Tensymp 2020](http://tensymp2020.com/) [(presentation)](https://tonmoy-hossain.github.io/files/tensymp_presentation.pdf).
+
 * <span style="color:Blue"> [June 09, 2020] </span> - A long paper was accepted at [ICACIE 2020](https://www.icacie.com/2020/).
-* <span style="color:Blue"> [June 07, 2020] </span> - A paper was presented at [Tensymp 2020](http://tensymp2020.com/).
+* <span style="color:Blue"> [June 07, 2020] </span> - A short paper was presented at [Tensymp 2020](http://tensymp2020.com/) [(presentation)](https://tonmoy-hossain.github.io/files/tensymp_presentation.pdf).
 * <span style="color:Blue"> [April 28, 2020] </span> - One paper got accepted to [Tensymp 2020](http://tensymp2020.com/).
 * <span style="color:Blue"> [January 26, 2020] </span> - Joined as a Lecturer in the [Department of CSE, Ahsanullah University of Science and Technology](http://aust.edu/).
 * <span style="color:Blue"> [December 21, 2019] </span> - A [paper](https://ieeexplore.ieee.org/document/9068847) was presented at EICT 2019.
