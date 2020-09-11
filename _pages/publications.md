@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2020
 -----------
-*  Shithi Maitra, **Tonmoy Hossain**, Khan Md. Hasib, Fairuz Shadmani Shishir, **"Graph Theory for Dimensionality Reduction: ACase Study to Prognosticate Parkinson’s"**, <i>Accepted in The 11th Annual IEEE Information Technology, Electronics and Mobile Communication Conference [IEMCON 2020 ](https://ieee-iemcon.org/)</i>
+*  Shithi Maitra, **Tonmoy Hossain**, Khan Md. Hasib, Fairuz Shadmani Shishir, **"Graph Theory for Dimensionality Reduction: A Case Study to Prognosticate Parkinson’s"**, <i>Accepted in The 11th Annual IEEE Information Technology, Electronics and Mobile Communication Conference [(IEMCON 2020)](https://ieee-iemcon.org/)</i>
 *  Sifat Ahmed, **Tonmoy Hossain**, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah, **"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach"**, <i>Pre-print version published at [Research Square](https://www.researchsquare.com/article/rs-56285/v1)</i>
 *  Shithi Maitra, Nasrin Akter, Afrina Zahan Mithila, **Tonmoy Hossain**, and Mohammad Shafiul
 Alam, **"Apriori-backed Fuzzy Unification and Statistical Inference in Feature Reduction: An
