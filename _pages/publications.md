@@ -18,7 +18,7 @@ author_profile: true
 Alam, **"Apriori-backed Fuzzy Unification and Statistical Inference in Feature Reduction: An
 Application in Prognosis of Autism in Toddlers"**, <i>Accepted and Presented in 5th International Conference on Advanced Computing and Intelligent Engineering, Mauritius.</i>
 *  Fairuz Shadmani Shishir, **Tonmoy Hossain**, Faisal Muhammad Shah, **"EsharaGAN: An Approach to Generate Disentangle Representation of Sign Language using InfoGAN"**, <i>Accepted and Presented in 2020 IEEE Region 10 Symposium (TENSYMP), 5-7 June 2020, Dhaka, Bangladesh.</i>
-*  Fariha Elahee, Farhana Mim, Faizah Naquib, Sharika Tabassom, **Tonmoy Hossain**, Kazi A Kalpoma, **"Comparative Study of Deep Learning-based Finger Vein Biometric Authentication Systems"**, <i>Accepted in 2nd International Conference on Advanced Information and Communication Technology (ICAICT-2020), Dhaka, Bangladesh.</i>
+*  Fariha Elahee, Farhana Mim, Faizah Naquib, Sharika Tabassom, **Tonmoy Hossain**, Kazi A Kalpoma, **"Comparative Study of Deep Learning-based Finger Vein Biometric Authentication Systems"**, <i>Accepted in 2nd International Conference on Advanced Information and Communication Technology (ICAICT 2020), Dhaka, Bangladesh.</i>
 
 
 
