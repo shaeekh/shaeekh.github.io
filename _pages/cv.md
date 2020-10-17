@@ -31,7 +31,7 @@ Ahsanullah University of Science and Technology<br />
 ## Contact Me
 -------------
 
-**Email:** tonmoy.cse [at] aust [dot] edu, tonmoy.cse [at] ieee [dot] org<br /> 
+**Email:** tonmoy.cse [at] aust [dot] edu, tonmoyhossain.cse [at] ieee [dot] org<br /> 
  <br /> 
 **Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
 
