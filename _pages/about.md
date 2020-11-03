@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<b>Looking for available Graduate Position.</b>  <br /> 
+
 Greetings!
 
 <div style="text-align: justify"> 
