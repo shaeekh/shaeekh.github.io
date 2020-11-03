@@ -7,7 +7,6 @@ author_profile: true
 
 -----------
 
-#**Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ).**
 
 ## 2020
 -----------
