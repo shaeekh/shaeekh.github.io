@@ -11,7 +11,8 @@ redirect_from:
 Greetings!
 
 <div style="text-align: justify"> 
-My name is Tonmoy Hossain. I complete my undergraduate study in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. Just after finishing my B.Sc., I get the opportunity to serve my alma mater and presently I am working as a Lecturer in the <a href="http://aust.edu/cse/index.htm">Department of CSE</a> at my place of graduation.  My primary research interest lies at Machine Learning Applications, Computer Vision, Data Mining and Medical Image Processing.<br /><br /></div>
+
+I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="http://aust.edu/cse/index.htm">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining and Medical Image Processing.<br /><br /></div>
 
 <span style="color:Blue"><b>Looking for available Graduate Position.</b>   </span><br />
 
