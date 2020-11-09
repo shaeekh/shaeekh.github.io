@@ -14,7 +14,7 @@ Greetings!
 
 I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="http://aust.edu/cse/index.htm">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining and Medical Image Processing.<br /><br /></div>
 
-<span style="color:Blue"><b>Currently, I am looking for available Graduate Position.</b>   </span><br />
+<span style="color:Blue"><b>I am currently looking for available graduate position.</b>   </span><br />
 
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
@@ -24,6 +24,7 @@ I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and E
 
 # Activities 
 
+* <span style="color:Blue"> [November 9, 2020] </span> - One paper won the Best Paper Award under <i>Data Mining and Data Analytics and Big Data</i> category at [IEEE-IEMCON 2020](https://ieee-iemcon.org/).
 * <span style="color:Blue"> [November 3, 2020] </span> - A long paper was accepted at [ICCIT 2020](http://iccit.org.bd/2020/).
 * <span style="color:Blue"> [October 4, 2020] </span> - A short paper was accepted at [ICAICT 2020](http://icaict.uiu.ac.bd/).
 * <span style="color:Blue"> [September 11, 2020] </span> - A long paper was accepted at [IEEE-IEMCON 2020](https://ieee-iemcon.org/).
