@@ -24,6 +24,7 @@ I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and E
 
 # Activities 
 
+* <span style="color:Blue"> [December 20, 2020] </span> - A paper was presented at [ICCIT 2020](http://iccit.org.bd/2020/)[(presentation)](https://tonmoy-hossain.github.io/files/ICCIT_2020_(Finger_Vein).pdf)
 * <span style="color:Blue"> [November 28, 2020] </span> - One short paper was accepted at [ICECE 2020](http://icece.buet.ac.bd/2020/).  
 * <span style="color:Blue"> [November 9, 2020] </span> - One paper won the [<span style ="color:Red">**Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/Best_Paper_Award.png) under <i>Data Mining and Data Analytics and Big Data</i> category at [IEEE-IEMCON 2020](https://ieee-iemcon.org/).
 * <span style="color:Blue"> [November 3, 2020] </span> - A long paper was accepted at [ICCIT 2020](http://iccit.org.bd/2020/).
