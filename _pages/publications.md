@@ -12,7 +12,7 @@ author_profile: true
 -----------
 * **Tonmoy Hossain**, Sujan Sarker, Sejuti Rahman, and Md Atiqur Rahman Ahad, “Skeleton-based Human Action Recognition on Large-Scale Datasets: Is Deep Learning the Best Approach?”, Submitted and under review in <i>[Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters/call-for-papers/advances-in-human-action-activity-and-gesture-recognition)</i>
 *  Shithi Maitra, **Tonmoy Hossain**, Khan Md. Hasib, Fairuz Shadmani Shishir, ["Graph Theory for Dimensionality Reduction: A Case Study to Prognosticate Parkinson’s",](https://ieeexplore.ieee.org/abstract/document/9284926) <i>2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference [(IEMCON)](https://ieee-iemcon.org/)</i> Vancouver, BC, Canada, 2020, pp. 0134-0140, doi: 10.1109/IEMCON51383.2020.9284926. [<span style ="color:Red">(**Best Paper Award**)</span>](https://tonmoy-hossain.github.io/files/Best_Paper_Award.png) [<span style ="color:Green">[**presentation**]</span>](https://tonmoy-hossain.github.io/files/IEMCON2020(Graph).pdf)
-<div style="text-align: left, margin-left: 10px"><img src="https://tonmoy-hossain.github.io/files/Images/IEMCON2020/model.png" width="250" /></div>
+<div style="text-align: left, margin-left: 100px"><img src="https://tonmoy-hossain.github.io/files/Images/IEMCON2020/model.png" width="250" /></div>
 
 
 *  Sujan Sarker, Sejuti Rahman, **Tonmoy Hossain**, Syeda Faiza Ahmed, Lafifa Jamal, and Md Atiqur Rahman Ahad, **"Skeleton-based Activity Recognition: Preprocessing and Approaches"**, <i>Accepted and will be published in Contactless Human Activity Analysis, Springer Verlag, Germany.</i>
