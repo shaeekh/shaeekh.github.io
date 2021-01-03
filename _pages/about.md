@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!
+Greetings and Happy New Year!
 
 <div style="text-align: justify"> 
 
