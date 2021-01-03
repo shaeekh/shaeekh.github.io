@@ -37,3 +37,5 @@ an NN: A Data-scientific Approach in Outlier Handling,"](https://ieeexplore.ieee
 * Faisal Muhammad Shah, **Tonmoy Hossain**, Mohsena Ashraf, Fairuz Shadmani Shishir, MD Abdullah Al Nasim, Md. Hasanul Kabir. ["Brain Tumor Segmentation Techniques on Medical Images - A Review"](https://www.ijser.org/onlineResearchPaperViewer.aspx?Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf), <i>International Journal of Scientific & Engineering Research, Volume 10, Issue 2, February-2019.</i>
 ISSN 2229-5518 [[PDF]](https://tonmoy-hossain.github.io/files/segmentationReview.pdf)
 
+* Fayza Amreen, Md. Golam Muktadir, **Tonmoy Hossain** and Nazmus Sakib, "A Proposal of Weightbased Similarities Hybrid Algorithm on Social Media Posts through Crowdsourcing to Achieve High Performance Recommendation". International Journal of Applied Information Systems (IJAIS)ISSN : 2249-0868 Foundation of Computer Science FCS, November 2019 [[PDF]](https://tonmoy-hossain.github.io/files/IJAIS.pdf)
+
