@@ -27,7 +27,8 @@ redirect_from:
 
 * **Dean's List of Honors** (Bachelor of Science)
 * **7th Place** out of 200 participants from 25 Universities in the EWU Inter University Math Olympiad 2019
-* Serving as an IT sub-committee member at 23<sup>rd</sup> International Conference on Computer and Information Technology (ICCIT - 2020) 
+* Best paper award in [IEEE-IEMCON 2020](https://ieee-iemcon.org/) under <i>Data Mining and Data Analytics and Big Data</i> category [<span style ="color:Red">**Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/Best_Paper_Award.png)
+* Served as an IT sub-committee member at 23<sup>rd</sup> International Conference on Computer and Information Technology (ICCIT - 2020) 
 * Participated in 2020 IEEE Region 10 Symposium (TENSYMP 2020), Dhaka, Bangladesh
 * Participated in 4th International Conference on Electrical Information and Communication Technology (EICT - 2019), Khulna, Bangladesh
 * Participated in 22nd International Conference on Computer and Information Technology (ICCIT - 2019)
