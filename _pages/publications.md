@@ -7,9 +7,9 @@ author_profile: true
 
 -----------
 
-##
+## 2021
 -----------
-Saiful Islam, Aurpan Dash, Ashek Seum, Amir Hossain Raj, **Tonmoy Hossain**, Faisal Muhammad Shah, "Exploring Video Captioning Techniques: A Comprehensive Survey on Deep Learning Methods", Accepted and will be published in [Springer Nature Computer Science](https://www.springer.com/journal/42979)
+* Saiful Islam, Aurpan Dash, Ashek Seum, Amir Hossain Raj, **Tonmoy Hossain**, Faisal Muhammad Shah, "Exploring Video Captioning Techniques: A Comprehensive Survey on Deep Learning Methods", Accepted and will be published in [Springer Nature Computer Science](https://www.springer.com/journal/42979)
 
 
 ## 2020
