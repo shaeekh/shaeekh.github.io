@@ -24,7 +24,7 @@ I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and E
 
 # Activities 
 
-* <span style="color:Blue"> [January 23, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://www.springer.com/journal/42979)
+* <span style="color:Blue"> [January 23, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00487-x?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue&utm_source=ArticleAuthorIncrementalIssue&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorIncrementalIssue_20210302)
 * <span style="color:Blue"> [December 19-21, 2020] </span> - Served as an IT-subcommittee member at [ICCIT 2020](http://iccit.org.bd/2020/)
 * <span style="color:Blue"> [November 28, 2020] </span> - One short paper was accepted at [ICECE 2020](http://icece.buet.ac.bd/2020/).  
 * <span style="color:Blue"> [November 9, 2020] </span> - One paper won the [<span style ="color:Red">**Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/Best_Paper_Award.png) under <i>Data Mining and Data Analytics and Big Data</i> category at [IEEE-IEMCON 2020](https://ieee-iemcon.org/).
