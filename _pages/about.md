@@ -24,7 +24,7 @@ I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and E
 
 # Activities 
 
-* <span style="color:Blue"> [May 8, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science] Journal(https://link.springer.com/article/10.1007/s42979-021-00690-w)
+* <span style="color:Blue"> [May 8, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00690-w) Journal.
 * <span style="color:Blue"> [March 3, 2021] </span> - One paper won the [<span style ="color:Red">**3rd Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/ICCIT-Best-Paper.pdf) at [ICCIT 2020](http://iccit.org.bd/2020/).
 * <span style="color:Blue"> [January 23, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00487-x?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue&utm_source=ArticleAuthorIncrementalIssue&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorIncrementalIssue_20210302)
 * <span style="color:Blue"> [December 19-21, 2020] </span> - Served as an IT-subcommittee member at [ICCIT 2020](http://iccit.org.bd/2020/)
