@@ -14,7 +14,7 @@ Greetings!!!
 
 I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining, and Image Processing.<br /><br /></div>
 
-<b>&#8594; </b> I’ll be starting the Ph.D. in Computer Science at the <span style="color:#E57200"><b> University of Virginia </b></span> from this Fall. &#x1F60a; <br />
+<b>&#8594; </b> <b>I’ll be starting the Ph.D. in Computer Science at the </b><span style="color:#E57200"><b> University of Virginia </b></span> <b>from this Fall. </b> &#x1F60a; <br />
 
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
