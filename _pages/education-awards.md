@@ -10,7 +10,10 @@ redirect_from:
 
 # Education
 
+### Ph.D. in Computer Science (ongoing)
 
+
+* University of Virginia, Virginia, United States.
 
 ### B.Sc. in Computer Science and Engineering
 
