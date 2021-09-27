@@ -14,7 +14,7 @@ Greetings!!!
 
 I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, Data Mining, and Image Processing.<br /><br /></div>
 
-<b>I’ll be starting the Ph.D. in Computer Science at the </b><span style="color:#E57200"><b> University of Virginia </b></span> <b>from this Fall. </b> &#x1F60a; <br />
+<b>I have started my Ph.D. in Computer Science at the </b><span style="color:#E57200"><b> University of Virginia </b></span> <b>from this Fall. </b> &#x1F60a; <br />
 
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
@@ -24,6 +24,7 @@ I am Tonmoy Hossain. I have completed my undergraduate in Computer Science and E
 
 # Activities 
 
+* <span style="color:Blue"> [August 28, 2021] </span> - One long survey paper is accepted and published at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
 * <span style="color:Blue"> [May 8, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00690-w) Journal.
 * <span style="color:Blue"> [March 3, 2021] </span> - One paper won the [<span style ="color:Red">**3rd Best Paper Award**</span>](https://tonmoy-hossain.github.io/files/ICCIT-Best-Paper.pdf) at [ICCIT 2020](http://iccit.org.bd/2020/).
 * <span style="color:Blue"> [January 23, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science](https://link.springer.com/article/10.1007/s42979-021-00487-x) Journal.
