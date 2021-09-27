@@ -9,6 +9,11 @@ redirect_from:
 
 ## Education 
 -------------
+<b>Ph.D. in Computer Science (ongoing)</b><br />
+University of Virginia<br />
+Virginia, United States<br />
+<i style='color:#000099;'>**August 2021 - Present**</i>
+
 <b>B.Sc., Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
