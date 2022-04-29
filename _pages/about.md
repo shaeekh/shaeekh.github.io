@@ -23,7 +23,7 @@ I am Tonmoy Hossain, a first-year Ph.D. in CS student at the University of Virgi
 
 
 # Activities 
-
+* <span style="color:Blue"> [April 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile. Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
 * <span style="color:Blue"> [January 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
 * <span style="color:Blue"> [August 28, 2021] </span> - One long survey paper is accepted and published at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
 * <span style="color:Blue"> [May 8, 2021] </span> - One long paper is accepted at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00690-w) Journal.
