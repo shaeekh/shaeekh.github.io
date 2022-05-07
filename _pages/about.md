@@ -23,7 +23,7 @@ I am Tonmoy Hossain, a first-year Ph.D. in CS student at the University of Virgi
 
 
 # Activities 
-* <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on health-care applications and its Security. For any kind of collaboration, don't hesitate to communicate &#x1F60a;
+* <span style="color:Blue"> [May 05, 2022] </span> - I have started working with [Professor Miaomiao Zhang](https://engineering.virginia.edu/faculty/miaomiao-zhang) as my Ph.D. advisor. I'll be working in the field of Computer Vision, concentrating on health-care applications and its Security. For any kind of collaboration, don't hesitate to communicate.
 * <span style="color:Blue"> [April 25, 2022] </span> - Reached 100+ citations on my Google Scholar profile.
 * <span style="color:Blue"> [January 19, 2022] </span> - Started working as Graduate Program Representative at [UVA CSGSG](https://csgsg.org/).
 * <span style="color:Blue"> [August 28, 2021] </span> - One long survey paper is accepted and published at [Springer Nature Computer Science ](https://link.springer.com/article/10.1007/s42979-021-00823-1) Journal.
