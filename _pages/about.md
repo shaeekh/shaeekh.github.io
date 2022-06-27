@@ -13,8 +13,8 @@ Greetings!!!
 <div style="text-align: justify"> 
 
 I am Tonmoy Hossain, a first-year Ph.D. in CS student at the University of Virginia. I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After completing my undergraduate program, I got the opportunity to serve my alma mater as a Lecturer in the <a href="https://www.aust.edu/cse">Department of CSE</a>. My primary research interest lies in Machine Learning Applications, Computer Vision, and Image Processing.<br /><br /></div>
-
-<b> I am open for Research Collaboration in the field of *Computer Vision*, *Image Analysis*, and *Vision Security*. Please reach out to me if you have anything to discuss.  </b> <i class="fa-regular fa-envelope"></i> <br />  
+ 
+<b> I am open to any Research Collaborations in the field of Computer Vision, Image Analysis, and Vision Security. Please reach out if you have anything to discuss or want to work together.  </b> <i class="fas fa-envelope"></i> <br />  
 
 **For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
 
