@@ -52,8 +52,7 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 <address>
 Aftabnagar<br /> 
 Dhaka <br /> 
-Bangladesh <br />
-Virginia, United States. <br /> 
+Bangladesh <br /> 
 </address> 
-<br /> 
+
 __________________________________________________________
