@@ -30,5 +30,5 @@ redirect_from:
 ### [2016]
 * 6th place at inter university programming contest organized by Notredame University 
 
-###[2016]
+### [2016]
 * Honorable mention at DBI3, an international photography festival organized by AUST Photography Club
