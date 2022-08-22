@@ -17,7 +17,7 @@ Dhaka, Bangladesh<br />
 <b>HSC, Science</b><br />
 Adamjee Cantonment College<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**2013 - 2015**</i>
+<i style='color:#000099;'> **2013 - 2015** </i> <br/>
 <b>SSC, Science</b><br />
 Adamjee Cantonment Public School<br />
 Dhaka, Bangladesh<br />
