@@ -10,10 +10,10 @@ redirect_from:
 ## Education 
 -------------
 
-<b>B.Sc., Computer Science and Engineering</b><br />
+<b>B.Sc. in Computer Science and Engineering</b><br />
 Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**2016 - 2021**</i> </br>
+<i style='color:#000099;'>**2016 - 2021**</i> <br/>
 <b>HSC, Science</b><br />
 Adamjee Cantonment College<br />
 Dhaka, Bangladesh<br />
