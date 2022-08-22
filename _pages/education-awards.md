@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /education-awards/
+permalink: /feature-awards/
 author_profile: true
 redirect_from:
   - /resume
@@ -20,7 +20,7 @@ redirect_from:
 
 ### [2017]
 
-* Featured in one of the top daily newspapers of the country. [**News Link**](https://www.kalerkantho.com/feature/campus/2017/11/08/562709)
+* Featured in one of the top daily newspapers of the country. [**News Link**](https://www.kalerkantho.com/feature/campus/2017/11/08/562709?fbclid=IwAR1Y2JOOZLkCuNaGQLQ23ZvSLwqZxwIAnSc2k1VNgbk_MkBlJgQM_vcsnac)
  
 ## Awards
 ----------------
