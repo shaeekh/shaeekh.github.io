@@ -32,3 +32,7 @@ redirect_from:
 
 ### [2016]
 * Honorable mention at DBI3, an international photography festival organized by AUST Photography Club
+
+### [2014]
+* First Place in [**Rajuk National Photography Festival**] ( https://www.facebook.com/photo/?fbid=773736809344019&set=a.773735076010859)
+
