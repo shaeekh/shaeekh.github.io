@@ -22,8 +22,8 @@ In my take, everyone useful for the earth has to contribute in the betterment of
 
 
 # Activities 
-* <span style="color:Blue"> [2022] </span> - Reached 10+ citations on my Google Scholar profile.
-* <span style="color:Blue"> [April 06, 2021] </span> - One Paper is Accepted at [ International Conference on Computer and Information Technology (ICCIT)] (https://ieeexplore.ieee.org/document/9392692).
+* <span style="color:Blue"> [2022] </span> - Reached 10+ citations on my Google Scholar profile. [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692).
+* <span style="color:Blue"> [April 06, 2021] </span> - One Paper is Accepted at [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692). 
 * <span style="color:Blue"> [June 06, 2020] </span> -  One Paper is Accepted at [ 2020 IEEE Region 10 Symposium (TENSYMP)](https://ieeexplore.ieee.org/document/9230733).
 * <span style="color:Blue"> [Dec 01, 2019] </span> - Intern as software engineer at [OpenRefactory, Inc](https://www.openrefactory.com/).
 * <span style="color:Blue"> [August 08, 2019] </span> - Organized Codeware'19, an intra university programming fiesta at [AUST](https://www.facebook.com/events/354026008822618/).
