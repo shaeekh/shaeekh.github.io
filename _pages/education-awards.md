@@ -22,10 +22,12 @@ redirect_from:
 
 * Featured in one of the top daily newspapers of the country. [**News Link**](https://www.kalerkantho.com/feature/campus/2017/11/08/562709?fbclid=IwAR1Y2JOOZLkCuNaGQLQ23ZvSLwqZxwIAnSc2k1VNgbk_MkBlJgQM_vcsnac)
  
-## Awards
+## Awards & Participation
 ----------------
 ### [2018]
 * Runners up at CodeWare'19, an intra programming contest event organized by AUST
+### [2018]
+* Participated in 2018 Dhaka ICPC Regional Programming Contest
 
 ### [2016]
 * 6th place at inter university programming contest organized by Notredame University 
@@ -34,5 +36,5 @@ redirect_from:
 * Honorable mention at DBI3, an international photography festival organized by AUST Photography Club
 
 ### [2014]
-* First Place in [**Rajuk National Photography Festival**] (https://www.facebook.com/photo/?fbid=773736809344019&set=a.773735076010859)
+* First Place in first college photography festival of Bangladesh. [**Rajuk National Photography Festival**] (https://www.facebook.com/photo/?fbid=773736809344019&set=a.773735076010859)
 
