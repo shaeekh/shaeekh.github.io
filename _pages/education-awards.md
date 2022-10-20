@@ -37,5 +37,5 @@ redirect_from:
 * Honorable mention at DBI3, an international photography festival organized by AUST Photography Club
 
 ### [2014]
-* First Place in first college photography festival of Bangladesh.  [**News Link**](https://www.kalerkantho.com/feature/campus/2017/11/08/562709?fbclid=IwAR1Y2JOOZLkCuNaGQLQ23ZvSLwqZxwIAnSc2k1VNgbk_MkBlJgQM_vcsnac)
+* First Place in first college photography festival of Bangladesh. [**Rajuk National Photography Festival**](https://www.facebook.com/photo/?fbid=773736809344019&set=a.773735076010859)
 
