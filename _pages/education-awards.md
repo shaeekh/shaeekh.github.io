@@ -24,8 +24,8 @@ redirect_from:
 
 ### [2014]
 
-* As general secretary, organized the first ever national and international festival consequently in the history of  cantonment colleges of Bangladesh. [**Club official Page**](https://www.facebook.com/ACCPC2014)
- 
+* As general secretary, organized the first ever national and international festival consequently in the history of  cantonment colleges of Bangladesh. [**Club official Page**](https://www.facebook.com/ACCPC2014) . Also helped to form science club, debating club and served as secretary of science club and broadcasting editor of debating club. 
+
 ## Awards & Participation
 ----------------
 ### [2018]
