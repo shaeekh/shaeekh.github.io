@@ -23,7 +23,7 @@ In my take, everyone useful for the earth has to contribute in the betterment of
 
 # Activities 
 * <span style="color:Blue"> [2022] </span> - Reached 15+ citations on my Google Scholar profile.
-* <span style="color:Blue"> [2020-2021] </span> - Created and lead as convenor of Alor Michil (Movement of Light), a voluntary organization to help Covid -19 affected people. (Feature on national television )](https://www.youtube.com/watch?v=ew_CdGVj2w0&t=9s). 
+* <span style="color:Blue"> [2020-2021] </span> - Created and lead as convenor of Alor Michil (Movement of Light), a voluntary organization to help Covid -19 affected people. [ Feature on national television ](https://www.youtube.com/watch?v=ew_CdGVj2w0&t=9s). 
 * <span style="color:Blue"> [April 06, 2021] </span> - One Paper is Accepted at [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692). 
 * <span style="color:Blue"> [June 06, 2020] </span> -  One Paper is Accepted at [ 2020 IEEE Region 10 Symposium (TENSYMP)](https://ieeexplore.ieee.org/document/9230733).
 * <span style="color:Blue"> [Dec 01, 2019] </span> - Intern as software engineer at [OpenRefactory, Inc](https://www.openrefactory.com/).
