@@ -12,7 +12,7 @@ Hello!
 
 <div style="text-align: justify"> 
 
-I am Shaeekh Al Jahan, I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. In my varsity days, I was actively engaged in programming contest.  My primary research interest lies in Bioinformatics, Natural Language Processing and Computer Vision.
+I am Shaeekh Al Jahan, I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. I was actively engaged in programming contest in my varsity days, and in research work based on Ml, DL in last year.  My primary research interest lies in Bioinformatics, Natural Language Processing and Computer Vision.
 In my take, everyone useful for the earth has to contribute in the betterment of society and nation. This is why, I believe in building and leading community to fulfill our purposes together for a sustainable world.   <br /><br /></div>
  
 <b> I am open to any Research Collaborations in the field of *Bioinformatics*, *NLP* and *Computer Vision*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="shaeekhshuvro@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
@@ -22,7 +22,7 @@ In my take, everyone useful for the earth has to contribute in the betterment of
 
 
 # Activities 
-* <span style="color:Blue"> [2022] </span> - Reached 10+ citations on my Google Scholar profile. [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692).
+* <span style="color:Blue"> [2022] </span> - Reached 15+ citations on my Google Scholar profile.
 * <span style="color:Blue"> [April 06, 2021] </span> - One Paper is Accepted at [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692). 
 * <span style="color:Blue"> [June 06, 2020] </span> -  One Paper is Accepted at [ 2020 IEEE Region 10 Symposium (TENSYMP)](https://ieeexplore.ieee.org/document/9230733).
 * <span style="color:Blue"> [Dec 01, 2019] </span> - Intern as software engineer at [OpenRefactory, Inc](https://www.openrefactory.com/).
