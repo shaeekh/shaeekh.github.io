@@ -14,9 +14,7 @@ redirect_from:
 
 **Email:** shaeekhshuvro [at] gmail [dot] com <br /> 
  <br /> 
-**Website:** [https://shaeekh.github.io](https://shaeekh.github.io) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=fONhn9EAAAAJ&hl=en) .
 
 
 **Address:**
