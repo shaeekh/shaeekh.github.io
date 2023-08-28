@@ -12,7 +12,7 @@ Hello!
 
 <div style="text-align: justify"> 
 
-I am Shaeekh Al Jahan, I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. I was actively engaged in programming contest in my varsity days, and in research work based on Ml, DL in last year.  My primary research interest lies in Bioinformatics, Natural Language Processing and Computer Vision.
+I am Shaeekh Al Jahan, I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. I was actively engaged in programming contest in my varsity days, and in research work based on Ml, DL in the last year.
 For a sustainable world, small steps do matter. I believe in computer based solutions ( collaborating with other sectors)  for building and leading community in order to fulfill our purposes together.   <br /><br /></div>
  
 <b> I am open to any Research Collaborations in the field of *NLP*, *Bioinformatics* and *Human Centered Computing*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="shaeekhshuvro@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
