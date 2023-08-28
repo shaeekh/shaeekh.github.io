@@ -23,6 +23,7 @@ For a sustainable world, small steps do matter. I believe in computer based solu
 
 # Activities 
 * <span style="color:Blue"> [2023] </span> - Reached 25+ citations on my Google Scholar profile.
+* <span style="color:Blue"> [2023] </span> - Organized a program at my village to recognize brilliant students there and formed a community .<a href="https://samakal.com/whole-country/article/2307180967>Details </a>
 * <span style="color:Blue"> [April 06, 2021] </span> - One Paper is Accepted at [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692). 
 * <span style="color:Blue"> [June 06, 2020] </span> -  One Paper is Accepted at [ 2020 IEEE Region 10 Symposium (TENSYMP)](https://ieeexplore.ieee.org/document/9230733).
 * <span style="color:Blue"> [Dec 01, 2019] </span> - Intern as software engineer at [OpenRefactory, Inc](https://www.openrefactory.com/).
