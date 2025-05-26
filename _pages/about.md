@@ -12,17 +12,17 @@ Hello!
 
 <div style="text-align: justify"> 
 
-I am Shaeekh Al Jahan, I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. I was actively engaged in programming contest in my varsity days, and in research work based on Ml, DL in the last year.
-For a sustainable world, small steps do matter. I believe in computer based solutions ( collaborating with other sectors)  for building and leading community in order to fulfill our purposes together.   <br /><br /></div>
+I am Shaeekh Al Jahan, a Computer Science Ph.D. student at the <a href="https://www.memphis.edu/"> University of Memphis</a>. Moreover, I am working as a Teaching Assistant (TA) of <a href="https://www.memphis.edu/cs/cs_capstone/"> Capstone Project </a> and Research Assistant (RA) at CUBES lab, directed by DR. Brandon M Booth. My research interest lies in  Human Centered Computing (HCC), Multi Modal Learning and Natural Language Processing (NLP). Through my research, I  want to create impact in the field of human health and behavior analysis. </div>
  
-<b> I am open to any Research Collaborations in the field of *NLP*, *Bioinformatics* and *Human Centered Computing*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="shaeekhshuvro@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
+
 
 
 -----------
 
 
 # Activities 
-* <span style="color:Blue"> [2023] </span> - Reached 25+ citations on my Google Scholar profile.
+* <span style="color:Blue"> [2025] </span> - Reached 85+ citations on my Google Scholar profile.
+* <span style="color:Blue"> [2024] </span> - Started Ph.D. at the University of Memphis
 * <span style="color:Blue"> [2023] </span> - Organized a program at my village to recognize brilliant students there and formed a community .<a href="https://samakal.com/whole-country/article/2307180967">Details </a>
 * <span style="color:Blue"> [April 06, 2021] </span> - One Paper is Accepted at [ International Conference on Computer and Information Technology (ICCIT)](https://ieeexplore.ieee.org/document/9392692). 
 * <span style="color:Blue"> [June 06, 2020] </span> -  One Paper is Accepted at [ 2020 IEEE Region 10 Symposium (TENSYMP)](https://ieeexplore.ieee.org/document/9230733).
