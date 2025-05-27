@@ -13,16 +13,13 @@ redirect_from:
 -------------
 
 **Email:** shaeekhshuvro [at] gmail [dot] com <br /> 
-**Email:** saljahan [at] memphis [dot] edu <br /> 
+	   saljahan [at] memphis [dot] edu <br /> 
 
  <br /> 
 
 
 
 **Address:**
-<address>
-Memphis <br /> 
-USA <br /> 
-</address> 
+<address> Memphis, USA </address> 
 
 __________________________________________________________
