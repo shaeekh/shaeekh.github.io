@@ -23,7 +23,7 @@ My research interest lies in  Human Centered Computing (HCC), Multi Modal Learni
 
 
 # Activities 
-* <span style="color:Blue"> [2025] </span> - Reached 89 citations on my Google Scholar profile.
+* <span style="color:Blue"> [2025] </span> - Reached 89 citations on <a href ="https://scholar.google.com/citations?user=fONhn9EAAAAJ&hl=en&authuser=1"> Google Scholar </a>
 * <span style="color:Blue"> [2025] </span> - Started working as Research Assistant at CUBES Lab
 * <span style="color:Blue"> [2025] </span> - Published one paper at 2025 EDM as co author
 * <span style="color:Blue"> [2025] </span> - Presented posted on CS Research Day 2025 at University of Memphis
