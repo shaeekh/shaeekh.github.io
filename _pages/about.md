@@ -12,7 +12,7 @@ Hello!
 
 <div style="text-align: justify"> 
 
-I am Shaeekh Al Jahan, a Computer Science Ph.D. student at the <a href="https://www.memphis.edu/"> University of Memphis</a>. Moreover, I am working as a Teaching Assistant (TA) of <a href="https://www.memphis.edu/cs/cs_capstone/"> Capstone Project </a> and Research Assistant (RA) at CUBES lab, directed by DR. Brandon M Booth.<br> <br>
+I am Shaeekh Al Jahan, a Computer Science Ph.D. student at the <a href="https://www.memphis.edu/"> University of Memphis</a>. Moreover, I am working as a Teaching Assistant (TA) of <a href="https://www.memphis.edu/cs/cs_capstone/"> Capstone Project </a> and Research Assistant (RA) at CUBES lab, directed by Dr. Brandon M Booth.<br> <br>
 
 My research interest lies in  Human Centered Computing (HCC), Multi Modal Learning and Natural Language Processing (NLP). I am particularly passionate about leveraging these areas to make a meaningful impact on human health and behavior analysis. Specifically, I aim to explore computational methods for reasoning and measuring emotional states such as stress, frustration, and motivation. Also, I am intrigued by research involving sleep and age-specific diseases, and their broader implications on well-being. Recently, I have started exploring generative AI. </div>
  
